@@ -2,4 +2,26 @@
     margin-left: 8cm;
     margin-right:20cm;
 }
+h1 {
+    color: white;
+    font-style: italic;
+    font-family: 'Allison', cursive;
+    font-family: 'Pacifico', cursive;
+}
+h2 {
+    color: white;
+    font-style: italic;
+    font-family: 'Allison', cursive;
+}
 
+body {
+    background-image: url(img/strand.jpg);
+}
+
+#footer {
+    color: white;
+    margin-left: 25cm;
+    margin-top: 3cm;
+font-family: 'Joan', serif;
+
+}
